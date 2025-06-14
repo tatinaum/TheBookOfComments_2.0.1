@@ -1,2 +1,2 @@
-##TheBookOfComments_2.0.1##
+TheBookOfComments_2.0.1
 API GraphQL
